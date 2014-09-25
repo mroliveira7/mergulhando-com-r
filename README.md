@@ -1,4 +1,4 @@
-Exemplos da palestra "Mergulhando nos dados abertos com R".
+Exemplos da palestra "Mergulhando nos dados abertos com R". Slides: <https://speakerdeck.com/rodrigorgs/mergulhando-nos-dados-abertos-com-r>.
 
 1. [Beabá do R](https://rawgit.com/rodrigorgs/mergulhando-com-r/master/beaba.html)
 2. [Transformação, visualização e análise de dados com R](https://rawgit.com/rodrigorgs/mergulhando-com-r/master/analise.html)
