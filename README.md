@@ -1,11 +1,11 @@
 Exemplos da palestra "Mergulhando nos dados abertos com R".
 
-1. [Beabá do R](beaba.R)
-2. [Transformação, visualização e análise de dados com R](analise.R)
+1. [Beabá do R](https://rawgit.com/rodrigorgs/mergulhando-com-r/master/beaba.html)
+2. [Transformação, visualização e análise de dados com R](https://rawgit.com/rodrigorgs/mergulhando-com-r/master/analise.html)
 3. [Servidor web com R](server.R)
 4. [Criação de funções em C](cpp.R)
 
 Outros exemplos:
 
-* [Onde fui roubado](ondefuiroubado.R)
-* [Bike Salvador](bikes.R)
+* [Onde fui roubado](https://rawgit.com/rodrigorgs/mergulhando-com-r/master/ondefuiroubado.html)
+* [Bike Salvador](https://rawgit.com/rodrigorgs/mergulhando-com-r/master/bikes.html)
